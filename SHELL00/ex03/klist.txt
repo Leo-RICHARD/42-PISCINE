@@ -1,0 +1,5 @@
+Credentials cache: API:3BE0DB20-0C13-4823-8C52-369202194BC2
+        Principal: lrichard@42LYON.FR
+
+  Issued                Expires               Principal
+Sep  7 10:50:02 2020  Sep  8 10:50:02 2020  krbtgt/42LYON.FR@42LYON.FR
